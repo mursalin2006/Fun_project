@@ -8,3 +8,4 @@ except Exception as e:
 '''except ZeroDivisionError as e:
     print('Exception Type:ZeroDivisionError')
     z = None'''
+
