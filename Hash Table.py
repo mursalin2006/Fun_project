@@ -1,0 +1,1 @@
+#On gogle colab(Hass table,Stack,Queue)
